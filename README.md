@@ -34,4 +34,4 @@ Each netCDF files contains the following three variables:<br />
 **layer:** 2-dimensional array, the size of latitude by longitude, containing the habitat suitability values from 0-1. <br />
 
 ## LA-UR:
-This repository is approved for public release under LA-UR-23-XXXXX.
+This repository is approved for public release under LA-UR-23-29970.
