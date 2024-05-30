@@ -23,8 +23,8 @@ This repository contains netCDF files with habitat suitability values from 0-1 f
 
 Each netCDF file is less than or up to 1.2 MB in size. 
 
-This paper is currently under review, and a link and citation will be provided once it is published. Here is a tentative citation:
-Gorris, M. E., Bartlow, A. W., Pitts, T. R., Manore, C. A. (In review, 2023). Projections of predominant Aedes and Culex mosquitoes across North and South America in response to global change. Global Change Biology. 
+**The paper associated with this dataset is:**  
+Gorris, M. E., Bartlow, A. W., Pitts, T. R., Manore, C. A. (2024). Projections of *Aedes* and *Culex* mosquitoes across North and South America in response to climate change. *The Journal of Climate Change and Health*, *17*(100317), https://doi.org/10.1016/j.joclim.2024.100317 
 
 ## netCDF files:
 Each netCDF files contains the following three variables:<br />
